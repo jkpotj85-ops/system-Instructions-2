@@ -18,10 +18,8 @@ These instructions and this project were entirely developed and created independ
 * * *
 
 
-* * *
 
-
-```
+```xml 
 <!-- Version: 59.2 — The Total Harmony Masterpiece -->
 
 <!-- Paste this entire file into the System Instructions field in Google AI Studio -->
