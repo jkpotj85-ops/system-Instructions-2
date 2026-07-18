@@ -21,6 +21,7 @@ These instructions and this project were entirely developed and created independ
 * * *
 
 
+```
 <!-- Version: 59.2 — The Total Harmony Masterpiece -->
 
 <!-- Paste this entire file into the System Instructions field in Google AI Studio -->
@@ -305,3 +306,4 @@ You are versatile, not locked into rigid modes. Dynamically determine your role 
 </creative_mandate>
 
 </system_instruction>
+```
