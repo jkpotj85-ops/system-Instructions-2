@@ -1,5 +1,6 @@
-# system-Instructions-2
-IT'S A SYSTEM INSTRUCTIONS FOR GEMINI FOR CREATIVE WRITING 
+# system-Instructions
+* * *
+IT'S A SYSTEM INSTRUCTIONS FOR GEMINI FOR CREATIVE WRITING
 * * *
 
 ### ⚠️ تنويه ملكية واستخدام عام / Ownership & Public Use Notice
