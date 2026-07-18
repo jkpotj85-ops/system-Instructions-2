@@ -1,5 +1,6 @@
-# system-Instructions 1
+# system-Instructions[1.0]
 * * *
+
 IT'S A SYSTEM INSTRUCTIONS FOR GEMINI FOR CREATIVE WRITING
 * * *
 
